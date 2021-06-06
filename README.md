@@ -2,8 +2,7 @@
 
 - 📫 You can reach me VIA my public email or my Discord Server!
 - 😮 You can call me Ali or Trick!
-- ⚡ Trying my best to Work as a Computer Scientist at NASA, FBI or CIA in nearby future 🤞
-- 😏 I make youtube videos to help people with coding! We are all learning & I love to teach people and solve their issues!
+- 😏 I help people with coding! We all learn and love teaching people and solving their problems!
 <p><p>
   
  ---
