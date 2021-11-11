@@ -7,7 +7,7 @@
 - When you get bored, I will share my infrastructures for you to use here.
 
 ## github stats
-![Dr-TriCK](https://github-readme-stats.vercel.app/api?username=mercyxrd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![shet00s3](https://github-readme-stats.vercel.app/api?username=shet00s3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
 ## My discord account
 - Discord: [!,Dr-TriCK.⁴⁷#2000](https://discord.com/users/104508673191071744)
