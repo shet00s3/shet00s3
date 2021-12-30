@@ -1,6 +1,6 @@
 
 # hello me Dr-TriCK.
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/104508673191071744)](https://discord.com/users/104508673191071744)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/803474861976322060)](https://discord.com/users/803474861976322060)
 ## About Me
 - I develop bots for public servers and team servers on the Discord platform.
 
@@ -10,7 +10,7 @@
 ![Dr-TriCK](https://github-readme-stats.vercel.app/api?username=shet00s3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
 ## My discord account
-- Discord: [!,Dr-TriCK.⁴⁷#2000](https://discord.com/users/104508673191071744)
+- Discord: [!,Dr-TriCK.⁴⁷#2000](https://discord.com/users/803474861976322060)
 
 
 
